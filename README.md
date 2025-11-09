@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="./screenshots/dashboardBaskt.png" alt="Baskt Protocol Dashboard" width="800"/>
+  <h1>🧺 Baskt Protocol</h1>
+  <p><strong>Create and trade tokenized baskets of ERC20 tokens on Arbitrum</strong></p>
+  <p>
+    <a href="https://baskt.io">Live DApp</a> •
+    <a href="#-technical-stack">Tech Stack</a> •
+    <a href="#-key-contracts">Contracts</a>
+  </p>
+</div>
+
 ## 🛠️ Technical Stack
 
 ### Smart Contracts
